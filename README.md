@@ -114,55 +114,53 @@ Open index.html in your browser
 OR use a Live Server extension.
 ```
 
-🌟 Unique Selling Points (USP)
+## 🌟 Unique Selling Points (USP)
 
-🎮 RPG-Based Learning (not quiz-based)
+- 🎮 RPG-Based Learning (not quiz-based)
 
-🧠 Real Algorithm Integration into Combat
+- 🧠 Real Algorithm Integration into Combat
 
-📖 Story-driven Progression
+- 📖 Story-driven Progression
 
-🏆 Gamified Motivation System
+- 🏆 Gamified Motivation System
 
-👶 Beginner Friendly
+- 👶 Beginner Friendly
 
-💡 Scalable to Competitive Programming Level
+- 💡 Scalable to Competitive Programming Level
 
-📊 Market Potential
+## 📊 Market Potential
 
-Growing demand for gamified education
+- Growing demand for gamified education
 
-Increasing need for DSA preparation (placements, interviews)
+- Increasing need for DSA preparation (placements, interviews)
 
-Expandable into:
+## Expandable into:
 
-🌐 Web platform
+- 🌐 Web platform
 
-📱 Mobile application
+- 📱 Mobile application
 
-🧑‍🤝‍🧑 Multiplayer coding battles
+- 🧑‍🤝‍🧑 Multiplayer coding battles
 
-🤖 AI-powered adaptive difficulty
+- 🤖 AI-powered adaptive difficulty
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
-🤖 AI-driven adaptive difficulty
+- 🤖 AI-driven adaptive difficulty
 
-🧑‍🤝‍🧑 Multiplayer battle mode
+- 🧑‍🤝‍🧑 Multiplayer battle mode
 
-🏅 Global leaderboard
+- 🏅 Global leaderboard
 
-🏰 More worlds & boss algorithms
+- 🏰 More worlds & boss algorithms
 
-📱 Mobile optimization
+- 📱 Mobile optimization
 
-🎨 Enhanced animations & pixel art
+- 🎨 Enhanced animations & pixel art
 
-👥 Team
+## 👥 Team
 
-Built during a 36-hour hackathon by:
-
-Your Name
+### Built during a 36-hour hackathon by:
 
 Sahitya Jana
 
@@ -171,7 +169,7 @@ Supriyo Giri
 Asmita Ghorai
 
 
-##🏆 Achievement
+## 🏆 Achievement
 
 - 🏆 Winner – Beginners Track
 36 Hour Hackathon Event
@@ -194,11 +192,3 @@ AlgoQuest is just the beginning.
 
 
 ---
-
-If you want, I can now:
-
-- Add 🔥 GitHub badges (stars, license, tech stack icons)
-- Add 📸 Screenshots section
-- Add 📊 Architecture diagram section
-- Make a 💼 Startup / Investor-ready version
-- Or make a super clean minimal dev-focused README
