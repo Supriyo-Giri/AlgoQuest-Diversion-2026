@@ -71,7 +71,7 @@ Each game mechanic is mapped to core CS concepts:
 ---
 
 ## 🏗️ Project Structure
-
+```bash
 
 AlgoQuest/
 │
@@ -90,7 +90,7 @@ AlgoQuest/
 ├── README.md
 └── package.json
 
-
+```
 ---
 
 ## ⚙️ Installation & Setup
@@ -100,14 +100,19 @@ AlgoQuest/
 ```bash
 git clone https://github.com/your-username/algoquest.git
 cd algoquest
-2️⃣ Backend Setup
+```
+### 2️⃣ Backend Setu
+```bash
+p
 cd backend
 npm install
 npm start
-3️⃣ Frontend Setup
-
+```
+### 3️⃣ Frontend Setup
+```bash
 Open index.html in your browser
 OR use a Live Server extension.
+```
 
 🌟 Unique Selling Points (USP)
 
@@ -159,22 +164,25 @@ Built during a 36-hour hackathon by:
 
 Your Name
 
-Teammate 1
+Sahitya Jana
 
-Teammate 2
+Supriyo Giri
 
-Teammate 3
+Asmita Ghorai
 
-(Add GitHub / LinkedIn links here)
 
-🏆 Achievement
+##🏆 Achievement
 
-🏆 Winner – Beginners Track
+- 🏆 Winner – Beginners Track
 36 Hour Hackathon Event
+
+---
 
 📜 License
 
 This project is licensed under the MIT License.
+
+---
 
 ❤️ Vision
 
