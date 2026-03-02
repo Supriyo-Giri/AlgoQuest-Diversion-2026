@@ -162,11 +162,11 @@ OR use a Live Server extension.
 
 ### Built during a 36-hour hackathon by:
 
-Sahitya Jana
+- Sahitya Jana
 
-Supriyo Giri
+- Supriyo Giri
 
-Asmita Ghorai
+- Asmita Ghorai
 
 
 ## 🏆 Achievement
