@@ -1,7 +1,7 @@
 # 🎮 AlgoQuest
 
-> A Gamified Algorithm Learning Experience in RPG Style  
-> 🏆 Winner – Beginners Track (36hr Hackathon)
+> An AI-Powered Gamified Algorithm Learning Experience in RPG Style  
+> 🏆 Winner – Beginners Track (36hr Hackathon, MLH Diversion 2K26)
 
 ---
 
